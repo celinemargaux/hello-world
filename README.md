@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Celinemargaux here, I like Minecraft and Coding, so that's what I do.
+
